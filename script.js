@@ -1,2 +1,2 @@
 
-let yourArray=['hello',1,true,undefined,];
+let yourArray=['hello',1,true,undefined];
